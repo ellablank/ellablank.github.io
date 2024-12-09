@@ -4,7 +4,7 @@ My name is Ella Blank, and I am a senior in the College of Arts and Sciences, ma
 
 Click [here](statement.md) to read about the projects I did for Introduction to Digital Humanities, along with the interests I realized during this process!
 
-Click [here](https://github.com/ellablank/ellablank.github.io/blob/c5219d58140f30a726bd996accc0113bb024ab6a/lookingforward.md) to read my next steps.
+Click [here](lookingforward.md) to read my next steps.
 
 I hope you enjoy my final portfolio, thanks!
 
