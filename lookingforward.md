@@ -4,5 +4,5 @@ Beyond this course, I plan to continue exploring digital humanities and related 
 3. Lastly, I’m interested in visiting more non-traditional museums in Philadelphia, like our class trip to Eastern State Penitentiary. These spaces offer experiences that highlight history in more immersive ways; in exploring them I hope to connect with Philadelphia as I near graduation, while deepening  my understanding of how digital and physical tools can enhance historical preservation. Though I don’t believe it includes a digital component, I would love to visit Philadelphia’s Magic Garden in South Street. The unique mosaics there use symbolism and textures to tell a deeper story, much like the way digital archives or multimedia can layer meaning and context in art. Exploring such spaces will deepen my appreciation for how physical elements and digital tools can enhance storytelling through artistic expression.
 
 <p align="center">
-  <img src="lookingf.jpeg" width="300">
+  <img src="lookingf.jpeg" width="600">
 </p>
