@@ -6,7 +6,7 @@ Click [here](https://github.com/ellablank/ellablank.github.io/blob/0a522ef46147c
 
 Click [here](https://github.com/ellablank/ellablank.github.io/blob/c5219d58140f30a726bd996accc0113bb024ab6a/lookingforward.md) to read my next steps.
 
-Thanks, and I hope you enjoy my final portfolio!
+I hope you enjoy my final portfolio, thanks!
 
 
 
